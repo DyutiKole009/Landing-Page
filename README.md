@@ -1,2 +1,3 @@
-# oibsip_1
-Internship at Oasis Infobyte Task1
+# Landing Page
+
+A Landing Page featuring *Titan Watches* made using CSS and HTML .
